@@ -12,6 +12,7 @@
 
 ⚡ Future Trailblazer – With a dynamic approach to technology and problem-solving, I am eager to push boundaries and contribute to transformative projects that shape the future of AI, Cloud Computing, and Scalable Systems.
 
-📫 How to reach me MAIL:Saikantipudi1968@gmail.com LINKEDIN:https://www.linkedin.com/in/rohith-kantipudi-04b6401b4 INSTAGRAM:https://instagram.com/rohith__kantipudi?utm_medium=copy_link 
+📫 How to reach me MAIL:Saikantipudi1968@gmail.com 
+                   LINKEDIN:https://www.linkedin.com/in/rohith-kantipudi
 
                 MY CODEFORCES HANDLE:  https://codeforces.com/profile/Rohith1968
